@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aubjam&label=Profile%20views&color=0e75b6&style=flat" alt="aubjam" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ayoubjamjama" target="blank"><img src="https://img.shields.io/twitter/follow/ayoubjamjama?logo=twitter&style=for-the-badge" alt="ayoubjamjama" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ayoubjamjama" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/twitter/follow/ayoubjamjama?logo=twitter&style=for-the-badge" alt="ayoubjamjama" /></a> </p>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ajamjama/](https://www.linkedin.com/in/ajamjama/)
+- 📄 Know about my experiences : [LinkedIn](https://www.linkedin.com/in/ajamjama/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ayoubjamjama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayoubjamjama" height="30" width="40" /></a>
+<a href="https://twitter.com/ayoubjamjama" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayoubjamjama" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
