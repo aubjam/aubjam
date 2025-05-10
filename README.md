@@ -7,9 +7,9 @@
 
 <h3 align="left">Visit My Website :</h3>
 <p align="left">
-  <a href="https://www.jamjama.net" target="_blank" rel="noopener noreferrer">
-    www.jamjama.net
-    <img src="https://www.google.com/s2/favicons?sz=48&domain_url=https%3A%2F%2Fjamjama.net" alt="Ayoub JAMJAMA" height="30" width="30" style="vertical-align: middle; margin-left: 5px;" />
+  <a href="https://www.jamjama.net" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; text-decoration: none;">
+    <img src="https://www.google.com/s2/favicons?sz=48&domain_url=https%3A%2F%2Fjamjama.net" alt="Ayoub JAMJAMA" height="30" width="30" style="margin-right: 8px;" />
+    <span style="font-size: 16px; color: inherit;">www.jamjama.net</span>
   </a>
 </p>
 
