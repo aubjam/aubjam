@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/ayoubjamjama" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/twitter/follow/ayoubjamjama?logo=twitter&style=for-the-badge" alt="ayoubjamjama" /></a> </p>
 
-<h3 align="left">Visit My Website :</h3>
-<p align="left">
-  <a href="https://www.jamjama.net" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; text-decoration: none;">
+<h3 style="text-align: left;">Visit My Website :</h3>
+<p style="display: flex; align-items: center; justify-content: center; margin-top: 10px;">
+  <a href="https://www.jamjama.net" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; text-decoration: none; color: #000;">
     <img src="https://www.google.com/s2/favicons?sz=48&domain_url=https%3A%2F%2Fjamjama.net" alt="Ayoub JAMJAMA" height="30" width="30" style="margin-right: 8px;" />
-    <span style="font-size: 16px; color: inherit;">www.jamjama.net</span>
+    <span style="font-size: 16px;">www.jamjama.net</span>
   </a>
 </p>
 
